@@ -1,4 +1,5 @@
-Links de bloqueio
+#Criado por Lorenzo Martin
+#Links de bloqueio
 
 
 0.0.0.0 googleadservices.com
