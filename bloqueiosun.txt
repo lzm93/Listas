@@ -9,14 +9,12 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 facebook
 0.0.0.0 m.facebook.com
 0.0.0.0 m.facebook.com.br
 0.0.0.0 facebook.com
 0.0.0.0 facebook.com.br
 0.0.0.0 animefire.net
 0.0.0.0 tawk.to
-0.0.0.0 anime
 0.0.0.0 anime.net
 0.0.0.0 justwatch.com
 0.0.0.0 animesgames.net
@@ -44,10 +42,10 @@
 0.0.0.0 jovemnerd.com
 0.0.0.0 crunchyroll.com
 0.0.0.0 deezer.com.br
-0.0.0.0 anime
 0.0.0.0 tvtime.com
 0.0.0.0 globoplay
-0.0.0.0 globo.com
+0.0.0.0 www.globoplay.globo.com
+0.0.0.0 globoplay.globo.com
 0.0.0.0 adorocinema.com
 0.0.0.0 filmow.com
 0.0.0.0 filmefilme.com.br
