@@ -227,3 +227,7 @@
 0.0.0.0 tiktok.com
 0.0.0.0 www.tiktok.com
 0.0.0.0 www.tiktok.com/pt-BR/
+0.0.0.0 music.youtube.com
+0.0.0.0 www.music.youtube.com
+0.0.0.0 br.music.youtube.com
+0.0.0.0 music.youtube.com.br
