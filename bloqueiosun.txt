@@ -64,14 +64,14 @@
 0.0.0.0 www.ad.doubleclick.net
 0.0.0.0 www.pagead2.googlesyndication.com
 0.0.0.0 www.pubads.g.doubleclick.net
-0.0.0.0 www.facebook
+0.0.0.0 www.facebook.com.br
 0.0.0.0 www.m.facebook.com
 0.0.0.0 www.m.facebook.com.br
 0.0.0.0 www.facebook.com
 0.0.0.0 www.facebook.com.br
 0.0.0.0 www.animefire.net
 0.0.0.0 www.tawk.to
-0.0.0.0 www.anime
+0.0.0.0 www.anime.br
 0.0.0.0 www.anime.net
 0.0.0.0 www.justwatch.com
 0.0.0.0 www.animesgames.net
@@ -99,9 +99,9 @@
 0.0.0.0 www.jovemnerd.com
 0.0.0.0 www.crunchyroll.com
 0.0.0.0 www.deezer.com.br
-0.0.0.0 www.anime
+0.0.0.0 www.anime.com
 0.0.0.0 www.tvtime.com
-0.0.0.0 www.globoplay
+0.0.0.0 www.globoplay.com.br
 0.0.0.0 www.globo.com
 0.0.0.0 www.adorocinema.com
 0.0.0.0 www.filmow.com
@@ -231,3 +231,6 @@
 0.0.0.0 www.music.youtube.com
 0.0.0.0 br.music.youtube.com
 0.0.0.0 music.youtube.com.br
+0.0.0.0 music.apple.com
+0.0.0.0 music.apple.com/br/
+0.0.0.0 www.apple.com/br/apple-music/
