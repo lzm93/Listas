@@ -43,7 +43,7 @@
 0.0.0.0 crunchyroll.com
 0.0.0.0 deezer.com.br
 0.0.0.0 tvtime.com
-0.0.0.0 globoplay
+0.0.0.0 globoplay.net
 0.0.0.0 www.globoplay.globo.com
 0.0.0.0 globoplay.globo.com
 0.0.0.0 adorocinema.com
