@@ -54,6 +54,10 @@
 0.0.0.0 witch.tv
 0.0.0.0 open.spotify.com
 0.0.0.0 spotify.com
+0.0.0.0 adrianeboneck.com.br
+0.0.0.0 animetvonline.cx
+0.0.0.0 chess.com
+0.0.0.0 4shared.com
 
 #Adicionando www
 
@@ -234,3 +238,7 @@
 0.0.0.0 music.apple.com
 0.0.0.0 music.apple.com/br/
 0.0.0.0 www.apple.com/br/apple-music/
+0.0.0.0 www.adrianeboneck.com.br
+0.0.0.0 www.animetvonline.cx
+0.0.0.0 www.chess.com
+0.0.0.0 www.4shared.com
